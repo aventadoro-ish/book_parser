@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: book-parser
+Version: 0.0.0
+Summary: Prefix-tree-based text story analyser
+Author: aventadoroqwerty@gmail.com
+License: MIT
+Platform: win32
+Platform: win64
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.11
