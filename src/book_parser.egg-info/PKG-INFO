@@ -8,3 +8,4 @@ Platform: win32
 Platform: win64
 Classifier: Programming Language :: Python :: 3.11
 Requires-Python: >=3.11
+Provides-Extra: testing

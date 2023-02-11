@@ -1,6 +1,6 @@
 [build-system]
-requires = ['setuptools~=65.5.1', 'wheel']
-build-backend = 'setuptools.build_meta'
+requires = ["setuptools>=67.2.0", "wheel"]
+build-backend = "setuptools.build_meta"
 
 [tool.pytest.ini_options]
 addopts = "--cov=book_parser"
