@@ -7,5 +7,6 @@ License: MIT
 Platform: win32
 Platform: win64
 Classifier: Programming Language :: Python :: 3.11
-Requires-Python: >=3.11
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.10
 Provides-Extra: testing
