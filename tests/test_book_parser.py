@@ -1,1 +1,2 @@
-import book_parser.main.py
+from src.book_parser.book_parser import *
+# TODO: add tests
