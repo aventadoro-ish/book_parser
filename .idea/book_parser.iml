@@ -4,6 +4,34 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/.mypy_cache/3.11" />
+      <excludeFolder url="file://$MODULE_DIR$/.pytest_cache/v" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/.pkg/.meta" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/.pkg/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/.pkg/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/.pkg/log" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/.pkg/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/.pkg/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/flake8/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/flake8/log" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/flake8/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/flake8/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/mypy/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/mypy/log" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/mypy/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/mypy/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py310/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py310/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py310/log" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py310/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py310/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py311/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py311/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py311/log" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py311/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/.tox/py311/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/.mypy_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/.pytest_cache" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
