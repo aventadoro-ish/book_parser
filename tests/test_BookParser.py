@@ -60,4 +60,3 @@ def test_text_init(text_filled_book_parser):
 
     assert bp.root.n_words == len(words)
     assert bp.root.n_unique_words == len(unique_words)
-    assert False
